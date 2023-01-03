@@ -1,0 +1,55 @@
+.reg{
+    background-color: aqua;
+    text-align: right  ;
+    height: auto;
+    width: 40%;
+    padding-top: 30px;
+    opacity: 0.6;
+    border-radius: 10px;
+
+    margin-left: 30%;
+   
+    
+}
+
+.reg label{
+    width: 50%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding-top: 1%;
+    margin-top: 2%;
+    margin-right: 13%;
+
+    
+}
+
+.reg input{
+    width: 50%;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    border-radius: 5px;
+    padding-top: 1%;
+    margin-top: 2%;
+    margin-right: 13%;
+
+}
+
+.reg p{
+    text-align: center;
+}
+
+.reg button{
+    text-align: center;
+}
+
+.reg h6{
+    text-align: center;
+}
+
+.box{
+    height: 25px;
+    width: auto;
+    text-align: center;
+}
